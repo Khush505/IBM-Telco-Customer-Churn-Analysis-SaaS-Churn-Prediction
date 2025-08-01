@@ -1,4 +1,4 @@
-# SaaS Customer Churn Prediction & Retention Strategy
+# IBM Telco SaaS Customer Churn Prediction & Retention Strategy
 
 This project simulates a **real-world product analytics** scenario: predicting customer churn for a SaaS company and testing retention strategies using A/B testing.
 
